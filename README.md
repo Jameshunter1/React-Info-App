@@ -1,2 +1,2 @@
 # React-Info-App
-A React Info App developed locally with Vite
+A React Info App developed with Vite
