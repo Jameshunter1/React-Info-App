@@ -1,2 +1,2 @@
 # React-Info-App
-A React Info App developed with Vite
+A React Facts App styled using a provided Figma file deployed with Vite
