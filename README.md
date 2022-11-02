@@ -1,6 +1,6 @@
 # React-Info-App
 
-A React Facts App styled using the provided Figma file - https://www.figma.com/file/4YjrygFEXOcDp9AAnVFv7o/Airbnb-Experiences?node-id=0%3A1
+A React Facts App styled using the provided Figma file - https://www.figma.com/file/xA1rJVQOorqMW6xjGdBLcI/ReactFacts 
 
 ![web-4](https://user-images.githubusercontent.com/90528783/186223678-b59af9b3-e98e-4d6c-85a2-ff77cd775001.jpg)
 
