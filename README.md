@@ -1,11 +1,8 @@
 # React-Info-App
 
-A React Facts App styled using the provided Figma file - https://www.figma.com/file/xA1rJVQOorqMW6xjGdBLcI/ReactFacts 
+This project is a React application that demonstrates my skills using the library to create components and replicate a figma design.
 
-![web-4](https://user-images.githubusercontent.com/90528783/186223678-b59af9b3-e98e-4d6c-85a2-ff77cd775001.jpg)
-
-
-# Getting Started with Create React App
+# Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -75,4 +72,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Features
+
+- Displays commonly known React facts
+
+# Technologies Used
+
+- React
+- HTML
+- CSS
+
+
+![web-4](https://user-images.githubusercontent.com/90528783/186223678-b59af9b3-e98e-4d6c-85a2-ff77cd775001.jpg)
+
+
+
 
